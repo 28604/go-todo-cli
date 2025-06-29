@@ -1,0 +1,14 @@
+[
+  {
+    "description": "Buy groceries",
+    "done": true
+  },
+  {
+    "description": "Read some books",
+    "done": false
+  },
+  {
+    "description": "Build a website",
+    "done": false
+  }
+]
